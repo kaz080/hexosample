@@ -3,10 +3,10 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
-description:
-author: John Doe
+title: Hexo sample
+subtitle: Sample site using Hexo
+description: This is sample site using Hexo static site generator.
+author: Kazuhide Adachi
 language:
 timezone:
 
